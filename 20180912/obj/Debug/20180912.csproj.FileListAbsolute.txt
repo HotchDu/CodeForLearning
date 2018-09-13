@@ -1,0 +1,7 @@
+D:\ShijinDu\Learning\C#\20180912\20180912\bin\Debug\20180912.exe.config
+D:\ShijinDu\Learning\C#\20180912\20180912\bin\Debug\20180912.exe
+D:\ShijinDu\Learning\C#\20180912\20180912\bin\Debug\20180912.pdb
+D:\ShijinDu\Learning\C#\20180912\20180912\obj\Debug\20180912.csprojAssemblyReference.cache
+D:\ShijinDu\Learning\C#\20180912\20180912\obj\Debug\20180912.csproj.CoreCompileInputs.cache
+D:\ShijinDu\Learning\C#\20180912\20180912\obj\Debug\20180912.exe
+D:\ShijinDu\Learning\C#\20180912\20180912\obj\Debug\20180912.pdb
